@@ -71,6 +71,7 @@ public class CelciusToFahrenheitGUI extends javax.swing.JFrame {
         );
 
         jPanel2.setBackground(new java.awt.Color(255, 255, 153));
+        jPanel2.setBorder(javax.swing.BorderFactory.createTitledBorder("latihan1"));
 
         tfCelcius.setName(""); // NOI18N
 
